@@ -1,0 +1,108 @@
+# C
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+*.d
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+
+# ---> C++
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.elf
+
+# Quartus
+**/incremental_db/*
+**/db/*
+**/greybox_tmp/*
+**/output_files/*
+**/obj/*
+**/stamp/*
+**/.qsys_edit
+*.sopcinfo
+*.qws
+*.map
+**/bsp/*
+*.bak
+**/mem_init/*
+*.objdump
+
+# image and video files
+*.png
+*.bmp
+*.tiff
+*.mp4
+*.avi
+*.mkv
+*.jpg
+*.jpeg
+*.pgm
+
+# IDE
+**/.vscode/*
+
+
+# Simulation
+*.hex
+*args.txt
+*.vcd
+*transcript
+*.wlf
+**/work/*
+*.ini
+
+# Signal taps
+*.stp
