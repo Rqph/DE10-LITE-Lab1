@@ -80,5 +80,5 @@ Voici une courte vidéo démontrant le principe de fonctionnement.
 https://user-images.githubusercontent.com/77203492/211807035-a3131f97-3379-4ab3-bd41-5f9093403c06.mp4
 
 
-# Conclusion 
-Dans ce TP, j'ai bien compris le principe et l'intérêt d'utiliser les interruptions, ainsi que l'approche particulière que requièrent les FPGA, en définissant d'abord l'architecture **Hardware** puis la partie **Software** et enfin l'aspect **Compilation** sur le shell de nios. Cela m'a permis de mieux comprendre comment fonctionnent les FPGA et comment les utiliser pour créer des systèmes embarqués efficaces et réactifs.
+# Conclusion
+J'ai bien compris le principe et l'intérêt d'utiliser les interruptions, ainsi que l'approche particulière que requièrent les FPGA, en définissant d'abord l'architecture **Hardware** puis la partie **Software** et enfin l'aspect **Compilation** sur le shell de nios. Cela m'a permis de mieux comprendre comment fonctionnent les FPGA et comment les utiliser pour créer des systèmes embarqués efficaces et réactifs.
